@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ahmet Sapan
+Build-Jdk: 16.0.1
+Implementation-Title: IntegratedFinance
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.integratedfinance
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/IntegratedFinance
+Created-By: Maven Integration for Eclipse
+
